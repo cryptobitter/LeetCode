@@ -49,4 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/cryptobitter/LeetCode/tree/master/0113-path-sum-ii) |
+## Array
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cryptobitter/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cryptobitter/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cryptobitter/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cryptobitter/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
