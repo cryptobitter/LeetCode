@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/cryptobitter/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0300-longest-increasing-subsequence](https://github.com/cryptobitter/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/cryptobitter/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0420-strong-password-checker](https://github.com/cryptobitter/LeetCode/tree/master/0420-strong-password-checker) |
 ## Greedy
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/cryptobitter/LeetCode/tree/master/0420-strong-password-checker) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/cryptobitter/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
