@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/cryptobitter/LeetCode/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/cryptobitter/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1051-height-checker](https://github.com/cryptobitter/LeetCode/tree/master/1051-height-checker) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptobitter/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cryptobitter/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/cryptobitter/LeetCode/tree/master/0420-strong-password-checker) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptobitter/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
