@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/cryptobitter/LeetCode/tree/master/1051-height-checker) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptobitter/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cryptobitter/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/cryptobitter/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/cryptobitter/LeetCode/tree/master/0189-rotate-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/cryptobitter/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
