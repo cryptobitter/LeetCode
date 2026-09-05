@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptobitter/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cryptobitter/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/cryptobitter/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/cryptobitter/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/cryptobitter/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3904-smallest-stable-index-ii](https://github.com/cryptobitter/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
