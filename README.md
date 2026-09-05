@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cryptobitter/LeetCode/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/cryptobitter/LeetCode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cryptobitter/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cryptobitter/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/cryptobitter/LeetCode/tree/master/0189-rotate-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/cryptobitter/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/cryptobitter/LeetCode/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/cryptobitter/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/cryptobitter/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3904-smallest-stable-index-ii](https://github.com/cryptobitter/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/cryptobitter/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
