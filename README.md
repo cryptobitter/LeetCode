@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/cryptobitter/LeetCode/tree/master/0011-container-with-most-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cryptobitter/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cryptobitter/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/cryptobitter/LeetCode/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/cryptobitter/LeetCode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/cryptobitter/LeetCode/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/cryptobitter/LeetCode/tree/master/0011-container-with-most-water) |
 | [0420-strong-password-checker](https://github.com/cryptobitter/LeetCode/tree/master/0420-strong-password-checker) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptobitter/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
