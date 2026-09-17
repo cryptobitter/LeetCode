@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/cryptobitter/LeetCode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cryptobitter/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cryptobitter/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/cryptobitter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/cryptobitter/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cryptobitter/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/cryptobitter/LeetCode/tree/master/0189-rotate-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/cryptobitter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/cryptobitter/LeetCode/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/cryptobitter/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cryptobitter/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/cryptobitter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/cryptobitter/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/cryptobitter/LeetCode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
