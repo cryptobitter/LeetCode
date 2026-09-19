@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/cryptobitter/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/cryptobitter/LeetCode/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/cryptobitter/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/cryptobitter/LeetCode/tree/master/0394-decode-string) |
 | [0420-strong-password-checker](https://github.com/cryptobitter/LeetCode/tree/master/0420-strong-password-checker) |
 | [0844-backspace-string-compare](https://github.com/cryptobitter/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cryptobitter/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/cryptobitter/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0394-decode-string](https://github.com/cryptobitter/LeetCode/tree/master/0394-decode-string) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/cryptobitter/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cryptobitter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/cryptobitter/LeetCode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/cryptobitter/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/cryptobitter/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/cryptobitter/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/cryptobitter/LeetCode/tree/master/0844-backspace-string-compare) |
