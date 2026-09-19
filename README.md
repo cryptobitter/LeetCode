@@ -114,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/cryptobitter/LeetCode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/cryptobitter/LeetCode/tree/master/0189-rotate-array) |
+| [0844-backspace-string-compare](https://github.com/cryptobitter/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/cryptobitter/LeetCode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/cryptobitter/LeetCode/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cryptobitter/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/cryptobitter/LeetCode/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/cryptobitter/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0420-strong-password-checker](https://github.com/cryptobitter/LeetCode/tree/master/0420-strong-password-checker) |
+| [0844-backspace-string-compare](https://github.com/cryptobitter/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cryptobitter/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/cryptobitter/LeetCode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/cryptobitter/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/cryptobitter/LeetCode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/cryptobitter/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cryptobitter/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
