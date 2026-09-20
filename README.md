@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/cryptobitter/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/cryptobitter/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/cryptobitter/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/cryptobitter/LeetCode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/cryptobitter/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/cryptobitter/LeetCode/tree/master/0739-daily-temperatures) |
 | [1051-height-checker](https://github.com/cryptobitter/LeetCode/tree/master/1051-height-checker) |
@@ -194,8 +195,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/cryptobitter/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/cryptobitter/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/cryptobitter/LeetCode/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/cryptobitter/LeetCode/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/cryptobitter/LeetCode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/cryptobitter/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
