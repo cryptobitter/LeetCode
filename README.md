@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/cryptobitter/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/cryptobitter/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/cryptobitter/LeetCode/tree/master/0394-decode-string) |
 ## Sorting
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/cryptobitter/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/cryptobitter/LeetCode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
