@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/cryptobitter/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/cryptobitter/LeetCode/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/cryptobitter/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/cryptobitter/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/cryptobitter/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/cryptobitter/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/cryptobitter/LeetCode/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/cryptobitter/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
 | ------- |
