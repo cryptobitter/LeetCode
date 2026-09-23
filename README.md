@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/cryptobitter/LeetCode/tree/master/0739-daily-temperatures) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/cryptobitter/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/cryptobitter/LeetCode/tree/master/1051-height-checker) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptobitter/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptobitter/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cryptobitter/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3524-find-x-value-of-array-i](https://github.com/cryptobitter/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cryptobitter/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cryptobitter/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/cryptobitter/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptobitter/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/cryptobitter/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/cryptobitter/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptobitter/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/cryptobitter/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/cryptobitter/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptobitter/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/cryptobitter/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/cryptobitter/LeetCode/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptobitter/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
