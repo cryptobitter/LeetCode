@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/cryptobitter/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/cryptobitter/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/cryptobitter/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0841-keys-and-rooms](https://github.com/cryptobitter/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/cryptobitter/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cryptobitter/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/cryptobitter/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0841-keys-and-rooms](https://github.com/cryptobitter/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/cryptobitter/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/cryptobitter/LeetCode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
